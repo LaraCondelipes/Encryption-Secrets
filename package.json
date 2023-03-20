@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "mongoose-encryption": "^2.1.2",
+    "parser": "^0.1.4"
+  },
+  "name": "secrets---starting-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
